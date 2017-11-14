@@ -1,4 +1,9 @@
 {
+  "linterOptions": {
+    "exclude": [
+      "api/"
+    ]
+  },
   "rulesDirectory": [
     "node_modules/codelyzer"
   ],
