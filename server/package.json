@@ -1,0 +1,26 @@
+{
+  "name": "expense-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/app"
+  },
+  "author": "Simply Technologies",
+  "license": "ISC",
+  "dependencies": {
+    "babel-register": "^6.9.0",
+    "babel-runtime": "^6.9.2",
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "glob": "^7.0.5",
+    "mongoose": "^4.5.2",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "babel-register": "^6.9.0"
+  }
+}
