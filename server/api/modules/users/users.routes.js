@@ -5,4 +5,4 @@ export function init(api){
   const router = new Router();
   router.get('/', userHandler.getAllUsers);
   api.use('/users', router);
-} 
+}

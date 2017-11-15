@@ -1,9 +1,10 @@
-import cookieParser from 'cookie-parser'
-import bodyParser from 'body-parser'
-import morgan from 'morgan'
-import express from 'express'
-import api from '../api'
-import path from 'path'
+import cookieParser from 'cookie-parser';
+import bodyParser from 'body-parser';
+import morgan from 'morgan';
+import express from 'express';
+import path from 'path';
+
+import api from '../api';
 
 const app = express();
 

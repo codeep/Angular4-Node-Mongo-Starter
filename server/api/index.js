@@ -1,6 +1,6 @@
-import glob from 'glob'
-import path from 'path'
-import express from 'express'
+import glob from 'glob';
+import path from 'path';
+import express from 'express';
 
 const api = express();
 
