@@ -1,5 +1,7 @@
 # Node - Mongo - Angular4 Starter
 
+## The project structure gives you a great opportunity to scale your application. Adding and maintaining API endpoints will be much faster. The structure is ideal for development process. For production mode, only one server is required which is more affordable and convenient. 
+
 ## Development server
 Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
@@ -13,6 +15,10 @@ Run `npm run production` to generate a static files from Angular project and ser
 ## Build
 
 Run `npm run build` to build the project. The build artifacts will be stored in the `server/dist` directory.
+
+## Build Production
+
+Run `npm run buildPROD` to build the project for production. The build artifacts will be stored in the `server/dist` directory.
 
 ## Project general structure
 
