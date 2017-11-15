@@ -8,6 +8,8 @@ import { AppComponent } from './components/app.component';
 import { HomeComponent } from './components/home/home.component';
 import { AboutComponent } from './components/about/about.component';
 
+import { RequestService } from './services/request/request.service';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -20,7 +22,7 @@ import { AboutComponent } from './components/about/about.component';
     HttpModule,
     RoutingModule
   ],
-  providers: [],
+  providers: [RequestService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
