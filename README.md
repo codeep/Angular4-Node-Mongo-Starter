@@ -1,6 +1,7 @@
 # Node - Mongo - Angular4 Starter
 
-#### The project structure gives you a great opportunity to scale your application. Adding and maintaining API endpoints will be much faster. The structure is ideal for development process. For production mode, only one server is required which is more affordable and convenient. 
+#### The project structure gives you a great opportunity to scale your application. Adding and maintaining API endpoints is easy and very fast. The structure is ideal for development process. 
+#### For production mode, only one server is required which is more affordable and convenient. 
 
 ## Development server
 Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
