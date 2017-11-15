@@ -39,6 +39,6 @@ testem.log
 .DS_Store
 Thumbs.db
 
-api/.idea
-api/dist
-api/node_modules
+server/.idea
+server/dist
+server/node_modules
